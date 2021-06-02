@@ -1,5 +1,5 @@
 # Business-Case-5
-## We divided the different challenges in different notebooks:
+## For each challenge, the team built a folder with multiple notebooks corresponding to the steps taken in the analysis:
 1. Preprocessing 
 2. Point-of-sale quarterly Analysis
 3. Clustering
