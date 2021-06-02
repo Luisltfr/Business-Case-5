@@ -1,5 +1,5 @@
 ### Main steps in data preprocessing:
-1-The main dataset was divided 1st in chunks of 1 million so we could preprocess it.
+1-The main dataset was divided 1st in chunks of 1 million so we could preprocess it. \
 2-column by column the unnecessary text was removed
 3-We passed each column to csv so we would not lose them
 4-We tested if the datasets were ok 
