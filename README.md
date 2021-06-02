@@ -7,4 +7,5 @@
 
 The fold "Datasets" contains the 4gb dataset we ended up with after the preprocessing step.
 
+The file "Report" contains the 10 pages report.
 Finally, in the presentation file you can find the 5 mins group presentation slides.
