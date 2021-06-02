@@ -6,3 +6,5 @@
 4. Forecasting
 
 The fold "Datasets" contains the 4gb dataset we ended up with after the preprocessing step.
+
+Finally, in the presentation file you can find the 5 mins group presentation slides.
