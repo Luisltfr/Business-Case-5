@@ -4,3 +4,5 @@
 2. Point-of-sale quarterly Analysis
 3. Clustering
 4. Forecasting
+
+The fold "Datasets" contains the 4gb dataset we ended up with after the preprocessing step.
